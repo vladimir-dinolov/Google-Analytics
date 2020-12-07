@@ -13,4 +13,4 @@ Due to company policy, the live dashboard cannot be shared as it is intended for
 ## Outcomes 
 This dashboard is able to capture user behavior any given time or date range and quantify how many users are accessing our suite of data dashboards. Not only can the tool identify the number of users, but it can identify their location, the day they viewed, and the time they viewed. This will allow Commit to identify the best day and time of day to release a new dashboard to increase user views. 
 
-Employing the tool resulted in Commit’s Tableau Gallery receiving an increase of 2,100 users and 8,000 page views as of December, 2020. A new subpage for curated dashboards based on the type of user (ex: schoolboard member) was also created. 
+Employing the tool resulted in Commit’s Tableau Gallery receiving an increase of 2,100 users and 8,000 page views as of December 2020. A new subpage for curated dashboards based on the type of user (ex: schoolboard member) was also created. 
